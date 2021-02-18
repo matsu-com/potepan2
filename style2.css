@@ -2793,10 +2793,15 @@ address {
 	height: 3px;
 	background-color: rgba(0, 0, 0, 0.8) ;
 	margin: 3px;
-  display: flex;
-  justify-content: flex-end;
+  /* display: flex;
+  justify-content: flex-end; */
 }
- 
+
+.humbergar{
+    display: flex;
+    justify-content: flex-end;
+ }
+
 body {
   margin: 0;
 }
